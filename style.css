@@ -2,3 +2,23 @@ html {
   height: 100%;
   width: 100%;
 }
+body {
+  height: 100%;
+  background: linear-gradient(0deg, rgb(20, 20, 20)0%, rgb(0, 0, 0)100%);
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: rgb(255, 10, 20);
+  font-family: 'Tektur', cursive;
+  font-size: 50px;
+  
+  
+
+}
+h5 {
+  color: rgb(255, 10, 20);
+  font-family: 'Tektur', cursive;
+  font-size: 20px;
+
+}
